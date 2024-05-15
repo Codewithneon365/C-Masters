@@ -4,7 +4,7 @@ History of C language is interesting to know. Here we are going to discuss a bri
 
 C programming language was developed in 1972 by Dennis Ritchie at bell laboratories of AT&T (American Telephone & Telegraph), located in the U.S.A.
 
-<img align="right" width="100" height="100" src="images\th.jpeg">
+<img align="right" width="150" height="150" src="images\th.jpeg">
 
 Dennis Ritchie is known as the founder of the c language.
 
